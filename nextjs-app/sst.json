@@ -1,0 +1,6 @@
+{
+  "name": "nextjs-app",
+  "region": "us-east-1",
+  "lint": true,
+  "main": "stacks/index.js"
+}
